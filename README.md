@@ -35,5 +35,12 @@ Luego de ejecutar el script, se puede ver como todos los datos se guardaron
 
 ![image](https://user-images.githubusercontent.com/66144847/127724291-8186f53d-e5b7-4cd2-9c84-34d15e6fe9d9.png)
 
+##### Ejercicio 4 - Posts de una página de Facebook
+En este ejercicio se utilizó el script para obtener posts de una página en Facebook, se usó la página oficial de los juegos olímpicos para obtener los posts relevantes
+Se utilizó la misma base de datos en mongoDB que en el ejercicio anterior, solo que esta vez se guardó en otra colección
+
+![image](https://user-images.githubusercontent.com/66144847/127724838-a182e9f2-e739-4a7b-802a-c691ba85399f.png)
+
+
 
 
