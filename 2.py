@@ -6,10 +6,10 @@ from tweepy.streaming import StreamListener
 import json
 
 #API keys
-key = "PoxcB6o7AByoSia0BknF2E3BX"
-secret = "JuOThJB0kkyBcLPY4gGco4FgpYVQD03TCXwcFM5s8VDsrvSIRF"
-atoken = "1415856712490307584-yLiFWBRSDvo7pl8k1DPfobjQiSIbC8"
-asecret = "idp4j4MrP212yRQRZySE1jh0HYy51wNxyJsKC8ylglTfs"
+key = "**************"
+secret = "************"
+atoken = "***********"
+asecret = "**********"
 
 #Conexion al servidor de couchdb
 server = couchdb.Server('http://mateo:couchdb@localhost:5984/')
